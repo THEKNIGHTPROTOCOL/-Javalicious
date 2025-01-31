@@ -59,30 +59,9 @@ Before you dive into **Javalicious**, make sure you have:
    git clone https://github.com/YOUR_USERNAME/Javalicious.git
    ## 📂 **Repository Structure**
 
-Here’s an overview of how the repository is organized to keep things clean and easy to navigate:
 
-```plaintext
-Javalicious/
-│
-├── Basics/               # Fundamental Java concepts
-│   ├── Variables.java     # Understanding variables and data types
-│   ├── Loops.java         # Loops in Java
-│   └── Conditionals.java  # If-else and switch-case
-│
-├── OOP/                   # Object-Oriented Programming concepts
-│   ├── ClassesAndObjects.java
-│   ├── Inheritance.java
-│   └── Polymorphism.java
-│
-├── Algorithms/            # Fun algorithms and logic problems
-│   ├── Factorial.java
-│   ├── Fibonacci.java
-│   └── SortingAlgorithms.java
-│
-└── Projects/              # Cool hands-on Java projects
-    ├── CalculatorApp.java
-    ├── ToDoListApp.java
-    └── WeatherApp.java
+
+
 ## 🎯 **Contributing**
 
 We welcome contributions to **Javalicious**! If you'd like to add more examples, improve existing code, or fix bugs, please follow these steps:
