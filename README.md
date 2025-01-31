@@ -102,10 +102,4 @@ We hope you enjoy exploring **Javalicious** as much as we enjoy creating it! Fee
 
 ---
 
-### **Badges:**
-Add some badges to make your README even more engaging!
 
-```markdown
-![Java Version](https://img.shields.io/badge/Java-11-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/Javalicious)
