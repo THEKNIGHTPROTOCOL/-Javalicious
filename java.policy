@@ -1,0 +1,4 @@
+grant codeBase "file:/home/user/app/" {
+    permission java.io.FilePermission "/home/user/data.txt", "read";
+    permission java.net.SocketPermission "localhost:8080", "connect";
+};
