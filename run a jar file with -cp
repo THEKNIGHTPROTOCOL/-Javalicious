@@ -1,0 +1,1 @@
+java -cp MyApp.jar com.example.MainClass
