@@ -1,0 +1,1 @@
+ClassName refVar = new ClassName();
