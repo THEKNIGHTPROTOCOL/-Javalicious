@@ -1,5 +1,5 @@
 interface Shape {
-    void getArea(); // Define a method without parameters
+    void getArea(); // Define a method without parameters   
 }
 
 class Rectangle implements Shape {
