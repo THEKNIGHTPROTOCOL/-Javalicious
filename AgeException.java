@@ -6,7 +6,7 @@ class AgeException extends Exception {
 
 public class Test {
     public static void main(String[] args) {
-        try {
+        try { 
             int age = 15;
             if (age < 18)
                 throw new AgeException("Not eligible to vote");
