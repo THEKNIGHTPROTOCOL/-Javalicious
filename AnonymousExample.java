@@ -9,4 +9,4 @@ public class AnonymousExample {
         Thread t = new Thread(obj);
         t.start();
     }
-}
+}  
