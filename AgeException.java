@@ -2,7 +2,7 @@ class AgeException extends Exception {
     AgeException(String msg) {
         super(msg);
     }
-}
+}     
 
 public class Test {
     public static void main(String[] args) {
