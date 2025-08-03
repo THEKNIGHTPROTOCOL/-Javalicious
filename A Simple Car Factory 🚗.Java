@@ -1,6 +1,6 @@
 class Car {
     // Default Constructor
-    Car() {  
+    Car() {      
         System.out.println("🚗 A new car is created!");
     }
 
