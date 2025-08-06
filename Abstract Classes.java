@@ -5,7 +5,7 @@ interface Shape {
 class Rectangle implements Shape {
     int length, breadth;
 
-    Rectangle(int length, int breadth) { 
+    Rectangle(int length, int breadth) {  
         this.length = length;
         this.breadth = breadth;
     }
