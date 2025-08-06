@@ -6,7 +6,7 @@ class Rectangle {
     public Rectangle(double length, double width) {
         this.length = length;
         this.width = width;
-    }
+    } 
 
     // Copy constructor
     public Rectangle(Rectangle rect) {
