@@ -6,7 +6,7 @@ class Dog {
     public Dog(String name, String color) {
         this.name = name;
         this.color = color;
-    }
+    }  
 
     // Method to display details
     public void display() {
