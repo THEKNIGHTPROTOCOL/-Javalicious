@@ -1,7 +1,7 @@
 class BankAccount {
     String accountHolder;
     int accountNumber;
-    double balance;
+    double balance; 
 
     // Constructor using 'this' keyword
     BankAccount(String accountHolder, int accountNumber, double balance) {
