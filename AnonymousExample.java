@@ -4,7 +4,7 @@ public class AnonymousExample {
             public void run() {
                 System.out.println("Anonymous inner class implementing Runnable");
             }
-        };
+        };  
 
         Thread t = new Thread(obj);
         t.start();
